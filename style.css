@@ -1,0 +1,17 @@
+.container{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: rgba(rgb(4,8,213),green,rgb(246,101,38));
+}
+.header{
+    font-size: 90px;
+    font-weight: bold;
+    color: orangered;
+    background: aquamarine;
+}
+.header .title:hover{
+    color: blue;
+    font-size: 90px;
+    margin: o;
+}
